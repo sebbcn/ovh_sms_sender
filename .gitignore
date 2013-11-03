@@ -11,6 +11,8 @@ build
 eggs
 parts
 bin
+include
+local
 var
 sdist
 develop-eggs
@@ -34,3 +36,4 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+my_settings.py
